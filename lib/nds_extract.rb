@@ -14,6 +14,7 @@ result = {
 
 
 row_index = 0
+
 #binding.pry
 while row_index < directors_database.count do
 inner_index = 0
